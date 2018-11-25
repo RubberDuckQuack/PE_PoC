@@ -15,6 +15,8 @@ The software is very much a work in progress and a slow one at that. Reversing
 the packets is time consuming work and the fact that the applications that
 this work is based off are hacked together does not help.
 
+[![asciicast](https://asciinema.org/a/0KJ3zGsBWmwnKV9Lk8umGB9ce.svg)](https://asciinema.org/a/0KJ3zGsBWmwnKV9Lk8umGB9ce)
+
 ## Features
 
 * Wiremapping (Slightly broken)
